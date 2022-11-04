@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Languages i currently know (Not trying to flex, just a list for myself)
+#### Languages i currently know (Not trying to flex, just a list for myself)
 - Python
 - Rust
 - F-Sharp
